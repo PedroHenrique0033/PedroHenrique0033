@@ -1,16 +1,40 @@
-## Hi there 👋
+### Olá, eu sou o Pedro 👋
 
-<!--
-**PedroHenrique0033/PedroHenrique0033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 
 
-Here are some ideas to get you started:
+Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Atualmente estou cursando Análise e Desenvolvimento de sistemas
+-  Atualmente estou aprendendo SQL, PYTHON E POWER BI
+-  Você pode me encontrar atráves do e-mail **pedroribeiro.003@hotmail.com**
+
+
+
+
+
+
+
+
+
+
+
+Principais Ferramentas:
+
+<div style="display: inline_block">
+<img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/python.png?raw=true">
+<img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/sql.png?raw=true">
+<img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+
+</div>
+
+
+
+
+
+Onde podem me encontrar:
+
+<div>
+  <a href="https://www.linkedin.com/in/pedro-ribeiro-308579345/" target="_blank">
+      <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true"src="">
+  </a>
+</div>
