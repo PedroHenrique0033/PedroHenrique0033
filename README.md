@@ -5,7 +5,7 @@
 Sobre mim:
 
 -  Atualmente estou cursando Análise e Desenvolvimento de sistemas
--  Atualmente estou aprendendo SQL, PYTHON E POWER BI
+-  Atualmente estou aprendendo SQL e PYTHON
 -  Você pode me encontrar atráves do e-mail **pedroribeiro.003@hotmail.com**
 
 
@@ -23,7 +23,6 @@ Principais Ferramentas:
 <div style="display: inline_block">
 <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/python.png?raw=true">
 <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/sql.png?raw=true">
-<img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
 
 </div>
 
