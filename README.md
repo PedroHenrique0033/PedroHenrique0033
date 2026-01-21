@@ -6,7 +6,7 @@ Sobre mim:
 
 -  Atualmente estou cursando Análise e Desenvolvimento de sistemas
 -  Atualmente estou aprendendo SQL e PYTHON
--  Você pode me encontrar atráves do e-mail **pedroribeiro.003@hotmail.com**
+-  Você pode me encontrar atráves do e-mail **03.pedroribeiro@gmail.com**
 
 
 
