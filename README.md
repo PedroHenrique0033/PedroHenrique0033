@@ -4,8 +4,7 @@
 
 Sobre mim:
 
--  Atualmente estou cursando Análise e Desenvolvimento de sistemas
--  Atualmente estou aprendendo SQL e PYTHON
+Sou formado em Análise de Dados, com foco na transformação de informações em insights estratégicos para apoiar a tomada de decisões. Possuo conhecimentos em SQL e Python para manipulação, análise e tratamento de dados, além de estar em constante aprimoramento técnico e profissional.
 -  Você pode me encontrar atráves do e-mail **03.pedroribeiro@gmail.com**
 
 
